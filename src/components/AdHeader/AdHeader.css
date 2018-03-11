@@ -1,0 +1,16 @@
+.header {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: #C0C0C0;
+    padding: 20px;
+}
+
+img {
+    margin: 70px;
+}
+
+.title-header {
+    font-weight: bold;
+}
+

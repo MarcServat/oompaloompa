@@ -1,0 +1,19 @@
+.card {
+    display: flex;
+    flex-flow: row;
+    margin: 5em;
+}
+
+.info {
+    margin-left: 30px;
+    margin-right: 80px;
+}
+
+p.description {
+    line-height: 2.5;
+}
+
+.name {
+    margin: 0;
+    font-size: 20px;
+}
