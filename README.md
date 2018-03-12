@@ -34,7 +34,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 A Vue app using ES6 base on standard Javascript style and formated code with eslint.
 
 ```
-# For deployment purposes:
+# For deployment:
 sh bash/deploy.sh
 ```
 
