@@ -1,7 +1,7 @@
 # Oompa Loompa
 
-> Helper for HR aimed to find oompaloompas
-for more info visit http://napptilus-oompalumpa.s3-website-eu-west-1.amazonaws.com/#/
+> Helper for HR aimed to find oompaloompas.
+> For more info visit http://napptilus-oompalumpa.s3-website-eu-west-1.amazonaws.com/#/
 
 ## Build Setup
 
