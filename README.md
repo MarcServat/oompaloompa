@@ -1,6 +1,7 @@
-# oompaloompa
+# Oompa Loompa
 
 > Helper for HR aimed to find oompaloompas
+for more info visit http://napptilus-oompalumpa.s3-website-eu-west-1.amazonaws.com/#/
 
 ## Build Setup
 
@@ -28,3 +29,12 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+###Description
+A Vue app using ES6 base on standard Javascript style and formated code with eslint.
+
+```
+# For deployment purposes:
+sh bash/deploy.sh
+```
+
